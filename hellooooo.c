@@ -5,4 +5,6 @@ int main(void)
 {
     printf("hello, antoine");
     return 0;
+
+    // A comment for third branch
 }
